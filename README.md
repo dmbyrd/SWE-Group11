@@ -2,7 +2,7 @@
 
 <p align="center">
 <b><a href="#overview">Overview</a></b>
-
+|
 <b><a href="#features">Features</a></b>
 |
 <b><a href="#registration">Registration</a></b>
@@ -20,7 +20,7 @@
 
 ## Overview
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Group 11 final project for Software Engineering at the University of MIssouri - Columbia. The goal of our project was to recreate LinkedIn to the best of our abilities within a small team of five individuals. We had to heavily focus on requirements management, since we would eventually be unable to recreate the vast majority of the features LinkedIn offers, and instead focus on the core features we would like to implement. We would continue to design and begin developing our code through 4 weekly sprints, gathering quick feedback from our instructors. Finally, what we have here is a very rough prototype of our project.
 
 ## Features
 
