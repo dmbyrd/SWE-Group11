@@ -35,25 +35,30 @@ Group 11 final project for Software Engineering at the University of MIssouri - 
 + *My Network* - Viewing one's connected network (Currently in Development)
 + *Wiki* - A full fledged wiki dedicated to this project, which documents the development of the application (Currenly in Development)
 
+<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Registration
 
-In order to register, please head over to our [Home Page](linkedin.td9175.com), and then head to the top right corner and find the registration button. Please fill out the requested information, and upon doing so: you’ll gain access to our system. Note: We highly recommend you check the Privacy section of this document, before continuing on to create your account. 
+In order to register, please head over to our [Home Page](linkedin.td9175.com), and then head to the top right corner and find the registration button. Please fill out the requested information, and upon doing so: you’ll gain access to our system. Note: We highly recommend you check the *Privacy* section of this document, before continuing on to create your account. 
 
+<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Privacy
 
 While the current system does encrypt your registration password and does not publicly show your email address on your profile. We still highly recommend to not use your real name, email address, and/or your commonly used password when registering for our service. We cannot guarantee a high level of security, due to the early stages of development. Thank you for your understanding. 
 
+<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Contributing
 
 #### Bug Reports & Feature Requests
 
 Please use the [issue tracker](https://github.com/dmbyrd/SWE-Group11/issues) to report any bugs or file any feature reqeusts.
 
+<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Wiki
 
 If you wish to learn more about the development process of this application, we have used the wiki to document our progress. 
-*Link:* [SWE-Group11 Wiki](https://github.com/dmbyrd/SWE-Group11/wiki)
+Link: [SWE-Group11 Wiki](https://github.com/dmbyrd/SWE-Group11/wiki)
 
+<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Credits
 
 ####Group 11 Members####
@@ -70,13 +75,14 @@ If you wish to learn more about the development process of this application, we 
 
 ####External####
 - Our application look/functionality is heavily based on [LinkedIn](https://www.linkedin.com/)
-- Our `README.md` top banner layout based on [@b4b4r07's README.md](https://github.com/zanshin/dotfiles)
-- Our `README.md` layout based on [@jxons's README.md](https://gist.github.com/jxson/1784669)
-- Our `README.md` contributing section based on [@karan's README.md](https://github.com/karan/joe)
+- Our `README.md` top link layout and *credits* section based on [@b4b4r07's README.md](https://github.com/zanshin/dotfiles)
+- Our `README.md` general layout based on [@jxons's README.md](https://gist.github.com/jxson/1784669)
+- Our `README.md` *contributing* section based on [@karan's README.md](https://github.com/karan/joe)
 - Add more later, once project nears completion, and this becomes more of a priority. 
 
+<p align="right"><a href="#top">:arrow_up:</a></p>
 ## License
 
-Currently a work progress. All licenses will be updated in the coming days while the project wraps up. We definitly took some stuff from places, and probably forgot where they even came from.
+Currently a work progress. All licenses will be updated in the coming days while the project wraps up. 
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
