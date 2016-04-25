@@ -51,7 +51,8 @@ Please use the [issue tracker](https://github.com/dmbyrd/SWE-Group11/issues) to 
 
 ## Wiki
 
-In order to learn more about the development process of this application, we have documented our development process through sprints, which can be found on this repositories Wiki. Link is provided here: [SWE-Group11 Wiki](https://github.com/dmbyrd/SWE-Group11/wiki)
+If you wish to learn more about the development process of this application, we have used the wiki to document our progress. 
+*Link:* [SWE-Group11 Wiki](https://github.com/dmbyrd/SWE-Group11/wiki)
 
 ## Credits
 
@@ -65,7 +66,7 @@ In order to learn more about the development process of this application, we hav
 ####Class Instructors####
 + Dr. Sean P. Goggins
 + Justin Schuyler
-+ Joe Trammel (PLA
++ Joe Trammel (PLA)
 
 ####External####
 - Our application look/functionality is heavily based on [LinkedIn](https://www.linkedin.com/)
