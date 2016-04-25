@@ -38,7 +38,7 @@ Group 11 final project for Software Engineering at the University of MIssouri - 
 <p align="right"><a href="#top">:arrow_up:</a></p>
 ## Registration
 
-In order to register, please head over to our [Home Page](linkedin.td9175.com), and then head to the top right corner and find the registration button. Please fill out the requested information, and upon doing so: you’ll gain access to our system. Note: We highly recommend you check the *Privacy* section of this document, before continuing on to create your account. 
+In order to register, please head over to our [Home Page](http://linkedin.td9175.com/), and then head to the top right corner and find the registration button. Please fill out the requested information, and upon doing so: you’ll gain access to our system. Note: We highly recommend you check the *Privacy* section of this document, before continuing on to create your account. 
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
 ## Privacy
