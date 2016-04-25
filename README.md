@@ -7,11 +7,9 @@
 |
 <b><a href="#registration">Registration</a></b>
 |
-<b><a href="#usage">Usage</a></b>
-|
 <b><a href="#privacy">Privacy</a></b>
 |
-<b><a href="#issues">Issues</a></b>
+<b><a href="#contributing">Contributing</a></b>
 |
 <b><a href="#credits">Credits</a></b>
 |
@@ -27,30 +25,34 @@ Group 11 final project for Software Engineering at the University of MIssouri - 
 
 ## Features
 
-Fill out later.
++ *Registration / Login* - To gain access to the system (Currently in Development) 
++ *Edit User Profile* - To personalize your profile page (Currently in Development) 
++ *Connecting* - With other Users in order to grow your network (Currently in Development) 
++ *Search* - Other users by their first name (Currently in Development) 
++ *Messaging* - Between two users who are connected(Currently in Development) 
++ *My Network* - Viewing one's connected network (Currently in Development)
++ *Wiki* - A full fledged wiki dedicated to this project, which documents the development of the application (Currenly in Development)
 
 ## Registration
 
-Fill out later.
-
-## Usage
-
-Fill out later.
+In order to register, please head over to our [Home Page](linkedin.td9175.com), and then head to the top right corner and find the registration button. Please fill out the requested information, and upon doing so: you’ll gain access to our system. Note: We highly recommend you check the Privacy section of this document, before continuing on to create your account. 
 
 ## Privacy
 
-Fill out later.Fill out later.Fill out later.Fill out later.Fill out later.Fill out later.Fill out later.
+While the current system does encrypt your registration password and does not publicly show your email address on your profile. We still highly recommend to not use your real name, email address, and/or your commonly used password when registering for our service. We cannot guarantee a high level of security, due to the early stages of development. Thank you for your understanding. 
 
-## Issues
+## Contributing
 
-Fill out later.Fill out later.Fill out later.Fill out later.Fill out later.Fill out later.Fill out later.
+#### Bug Reports & Feature Requests
+
+Please use the [issue tracker](https://github.com/dmbyrd/SWE-Group11/issues) to report any bugs or file any feature reqeusts.
 
 ## Credits
 
-Fill out later.
+Add namez here for realz
 
 ## License
 
-Uhh what?
+Currently a work progress. All licenses will be updated in the coming days while the project wraps up. 
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
