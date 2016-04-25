@@ -11,6 +11,8 @@
 |
 <b><a href="#contributing">Contributing</a></b>
 |
+<b><a href="#wiki">Wiki</a></b>
+|
 <b><a href="#credits">Credits</a></b>
 |
 <b><a href="#license">License</a></b>
@@ -20,7 +22,7 @@
 
 Group 11 final project for Software Engineering at the University of MIssouri - Columbia. The goal of our project was to recreate LinkedIn to the best of our abilities within a small team of five individuals. We had to heavily focus on requirements management, since we would eventually be unable to recreate the vast majority of the features LinkedIn offers, and instead focus on the core features we would like to implement. We would continue to design and begin developing our code through 4 weekly sprints, gathering quick feedback from our instructors. Finally, what we have here is a very rough prototype of our project.
 
-###Link to the final project application###
+####Link to the final project application####
 [Group 11 - LinkedIn Application](http://linkedin.td9175.com/)
 
 ## Features
@@ -47,12 +49,33 @@ While the current system does encrypt your registration password and does not pu
 
 Please use the [issue tracker](https://github.com/dmbyrd/SWE-Group11/issues) to report any bugs or file any feature reqeusts.
 
+## Wiki
+
+In order to learn more about the development process of this application, we have documented our development process through sprints, which can be found on this repositories Wiki. Link is provided here: [SWE-Group11 Wiki](https://github.com/dmbyrd/SWE-Group11/wiki)
+
 ## Credits
 
-Add namez here for realz
+####Group 11 Members####
++ Robert Fink
++ Kenny Clark
++ Dale Brauer
++ Xiang Li
++ Gaofei Zhao
+
+####Class Instructors####
++ Dr. Sean P. Goggins
++ Justin Schuyler
++ Joe Trammel (PLA
+
+####External####
+- Our application look/functionality is heavily based on [LinkedIn](https://www.linkedin.com/)
+- Our `README.md` top banner layout based on [@b4b4r07's README.md](https://github.com/zanshin/dotfiles)
+- Our `README.md` layout based on [@jxons's README.md](https://gist.github.com/jxson/1784669)
+- Our `README.md` contributing section based on [@karan's README.md](https://github.com/karan/joe)
+- Add more later, once project nears completion, and this becomes more of a priority. 
 
 ## License
 
-Currently a work progress. All licenses will be updated in the coming days while the project wraps up. 
+Currently a work progress. All licenses will be updated in the coming days while the project wraps up. We definitly took some stuff from places, and probably forgot where they even came from.
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
