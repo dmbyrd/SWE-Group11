@@ -78,7 +78,35 @@ if (!$link){
 		}
 		mysqli_stmt_close($stmt);
 	}
-	mysqli_close($link);
 ?>
+            
+<h1 style="text-align: center;">Number of users registered toward goal:</h1>
+<svg id="fillgauge1" style="text-align: center;"></svg>            
+<script src="js/d3/d3.min.js"></script>
+<script src="js/d3/lfg.js"></script>
+<script>
+    window.onload = function(){
+    var gauge1 = loadLiquidFillGauge("fillgauge1", 
+<?php
+    if($stmt3 = mysqli_prepare($link, "SELECT count(*) from Person")){
+        mysqli_stmt_execute($stmt3);
+        mysqli_stmt_store_result($stmt3);
+        mysqli_stmt_bind_result($stmt3, $numMembers);
+        while (mysqli_stmt_fetch($stmt3)){echo $numMembers;}
+        mysqli_stmt_close($stmt3);
+    }
+    mysqli_close($link);
+?>
+    );
+    var config1 = liquidFillGaugeDefaultSettings();
+    config1.circleColor = "#FF7777";
+    config1.textColor = "#FF4444";
+    config1.waveTextColor = "#FFAAAA";
+    config1.waveColor = "#FFDDDD";
+    config1.circleThickness = 0.2;
+    config1.textVertPosition = 0.2;
+    config1.waveAnimateTime = 1000;
+    }
+</script>
 		
 <!--"connection-card" classes based on LinkedIn's engagement-cards, but simplified for this assignment. -->
